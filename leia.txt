@@ -1,0 +1,18 @@
+Prezados, 
+
+Considero este como a entrega da avalição solicitada através do link: https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md
+
+O projeto foi desenvolvido utilizando as bibliotecas requests e BeautifulSoup do Python, sendo necessário instalar as mesmas para o correto funcionamento do sistema. 
+
+O projeto pode ser rodado via terminal ou por alguma IDE, para elaboração do projeto utilizei o auxilio da IDE PyCharm.
+
+Não consegui desenvolver todos os recursos solicitados, porém estou satisfeito com o rersultado obtido, visto que foi o primeiro sistema que desenvolvi na linguagem Python, sem curso algum, e com Web Scraping.
+
+Uma das maiores dificuldades que encontrei foi por o site com o resultado da busca por determinado estado ter um método Post como retorno da url, o que não informa um endereço específico para fazer a consulta e gerar o relatório.
+
+O documento cep.jsonl exibe o resultado do relatório gerado pelo software e buscacep.py é o arquivo com o código fonte.
+
+Agradeço a oportunidade dada para a minha pessoa e me mantenho à disposição para maiores informações.
+	
+Felipe Ferreira
+felipeferreiraf@gmail.com
